@@ -14,7 +14,7 @@
 
 backend:
   name: github
-  repo: stefanschlipfi/sw-physio.at
+  repo: simonwechdorn/sw-physio.at
   # OAuth proxy on the same domain (public/oauth/index.php). Only the login
   # goes through it – saving happens directly via the GitHub API in the browser.
   base_url: https://sw-physio.at
